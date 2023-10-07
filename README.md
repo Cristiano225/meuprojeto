@@ -1,4 +1,4 @@
-# Meu projeto
+# Móveis customizados
 
 Projeto do curso Explorer da Rocketseat💻🚀
 
